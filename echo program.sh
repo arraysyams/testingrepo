@@ -6,11 +6,17 @@ echo "This is an example of code."
 echo "Main program goes here..."
 
 #Feature request
+echo "This command displays current folder"
 pwd
-ls -l
-echo "This command displays current folder and lists its filesystem"
 
+echo "This command lists filesystem on current folder"
+ls -l
+
+echo -e "htop is a simple cli task manager.\nHint: To exit, press ctrl+c"
+sleep 5
 htop
-echo "htop is one example of the cli task manager"
+
+echo "htop is just one example of the cli task manager"
 echo "The other one is top:"
 top
+
