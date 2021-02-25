@@ -7,5 +7,8 @@ echo "Main program goes here..."
 
 #Feature request
 pwd
-ls
+ls -lh
 echo "This command displays current folder and lists its filesystem"
+
+htop
+echo "htop is a simple cli task manager"
