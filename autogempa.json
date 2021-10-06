@@ -1,0 +1,18 @@
+{
+  "Infogempa": {
+    "gempa": {
+      "Tanggal": "05 Okt 2021",
+      "Jam": "18:00:27 WIB",
+      "DateTime": "2021-10-05T11:00:27+00:00",
+      "Coordinates": "-8.15,118.10",
+      "Lintang": "8.15 LS",
+      "Bujur": "118.10 BT",
+      "Magnitude": "4.5",
+      "Kedalaman": "20 km",
+      "Wilayah": "Pusat gempa berada di darat 58 km Barat Laut Dompu",
+      "Potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
+      "Dirasakan": "II Dompu",
+      "Shakemap": "20211005180027.mmi.jpg"
+    }
+  }
+}
