@@ -1,18 +1,16 @@
 {
-  "Infogempa": {
-    "gempa": {
-      "Tanggal": "31 Sep 2021",
-      "Jam": "08:03:39 WIB",
-      "DateTime": "2021-10-05T11:00:27+00:00",
-      "Coordinates": "-8.15,118.10",
-      "Lintang": "8.15 LS",
-      "Bujur": "118.10 BT",
-      "Magnitude": "8.5",
-      "Kedalaman": "10 km",
-      "Wilayah": "Pusat gempa berada di lepas pantai 196 km Selatan Blitar",
-      "Potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-      "Dirasakan": "VII Blitar, VI Malang, III Surabaya",
-      "Shakemap": "20211005180027.mmi.jpg"
+    "Infogempa": {
+        "gempa": {
+            "Tanggal": "13 Okt 2021",
+            "Jam": "12:00:47 WIB",
+            "DateTime": "2021-10-13T05:00:47+00:00",
+            "Coordinates": "-8.87,110.97",
+            "Lintang": "8.87 LS",
+            "Bujur": "110.97 BT",
+            "Magnitude": "4.8",
+            "Kedalaman": "55 km",
+            "Wilayah": "Pusat gempa berada di laut 78 km selatan Pacitan",
+            "Dirasakan": "III Pacitan, III Trenggalek, III Wonogiri, II Gunung Kidul, II Bantul, II Yogyakarta"
+        }
     }
-  }
 }
