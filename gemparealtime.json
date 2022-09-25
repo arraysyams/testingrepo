@@ -1,0 +1,25 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "bmg2022suve",
+                "time": "2022-09-25 13:03:33.941369",
+                "mag": "2.575533",
+                "place": "Minahassa Peninsula, Sulawesi",
+                "fase": "13",
+                "status": "M",
+                "depth": "153.192871"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "122.090919",
+                    "0.319303",
+                    1
+                ]
+            }
+        }
+    ]
+}
