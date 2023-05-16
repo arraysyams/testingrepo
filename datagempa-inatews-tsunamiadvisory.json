@@ -1,1 +1,52 @@
- {"identifier":"Indonesia-InaTEWS-20230425030533","sender":"inatews@bmkg.go.id","sent":"2023-04-25T03:05:33WIB","status":"Actual","msgType":"Alert","scope":"Public","code":"profile:BMKG-Versi:1","info":{"event":"Gempabumi","date":"25-04-23","time":"03:00:57 WIB","point":{"coordinates":"98.39,-0.93"},"latitude":"0.93 LS","longitude":"98.39 BT","magnitude":"7.3","depth":"84 Km","area":"177 km BaratLaut KEP-MENTAWAI-SUMBAR","eventid":"20230425030533","potential":"Potensi TSUNAMI untuk diteruskan pada masyarakat","subject":"Warning Tsunami PD-1","headline":"Peringatan Dini Tsunami untuk wilayah: SUMUT, Gempa Mag:7.3, 25-Apr-23 03:00:57 WIB, Lok:0.93 LS, 98.39 BT (177 km BaratLaut KEP-MENTAWAI-SUMBAR), Kedlmn:84 Km ::BMKG","description":"Peringatan Dini Tsunami, telah terjadi gempabumi dengan kekuatan:7.3, lokasi: 177 km BaratLaut KEP-MENTAWAI-SUMBAR, waktu:25-Apr-23 03:00:57 WIB,  berpotensi Tsunami di wilayah: SUMUT","instruction":"Ikuti arahan peringatan dini TSUNAMI dari BPBD, BNPB dan BMKG","shakemap":"20230425030533.mmi.jpg","wzmap":"20230425030533.wz.png","ttmap":"20230425030533.tt.png","sshmap":"20230425030533.ssh.png","instruction1":"Pemerintah Propinsi\/Kab\/Kota yang berada pada status \"Awas\" diharap memperhatikan dan segera mengarahkan masyarakat untuk melakukan evakuasi menyeluruh","instruction2":"Pemerintah Propinsi\/Kab\/Kota yang berada pada status \"Siaga\" diharap memperhatikan dan segera mengarahkan masyarakat untuk melakukan evakuasi","instruction3":"Pemerintah Propinsi\/Kab\/Kota yang berada pada status \"Waspada\" diharap memperhatikan dan segera mengarahkan masyarakat untuk menjauhi pantai dan tepian sungai","wzarea":[{"province":"SUMUT","district":"NIAS-SELATAN PULAU TANABALA","level":"WASPADA","date":"25-04-2023","time":"03:09:54 WIB"},{"province":"SUMUT","district":"NIAS-SELATAN PULAU TANABALA","level":"WASPADA","date":"25-04-2023","time":"03:09:54 WIB"}],"timesent":"25\/04\/2023 03:05:33WIB"}}
+{
+  "identifier": "Indonesia-InaTEWS-20230425030533",
+  "sender": "inatews@bmkg.go.id",
+  "sent": "2023-04-25T03:05:33WIB",
+  "status": "Actual",
+  "msgType": "Alert",
+  "scope": "Public",
+  "code": "profile:BMKG-Versi:1",
+  "info": {
+    "event": "Gempabumi",
+    "date": "25-04-23",
+    "time": "03:00:57 WIB",
+    "point": {
+      "coordinates": "98.39,-0.93"
+    },
+    "latitude": "0.93 LS",
+    "longitude": "98.39 BT",
+    "magnitude": "7.3",
+    "depth": "84 Km",
+    "area": "177 km BaratLaut KEP-MENTAWAI-SUMBAR",
+    "eventid": "20230425030533",
+    "potential": "Potensi TSUNAMI untuk diteruskan pada masyarakat",
+    "subject": "Warning Tsunami PD-1",
+    "headline": "Peringatan Dini Tsunami untuk wilayah: SUMUT, Gempa Mag:7.3, 25-Apr-23 03:00:57 WIB, Lok:0.93 LS, 98.39 BT (177 km BaratLaut KEP-MENTAWAI-SUMBAR), Kedlmn:84 Km ::BMKG",
+    "description": "Peringatan Dini Tsunami, telah terjadi gempabumi dengan kekuatan:7.3, lokasi: 177 km BaratLaut KEP-MENTAWAI-SUMBAR, waktu:25-Apr-23 03:00:57 WIB,  berpotensi Tsunami di wilayah: SUMUT",
+    "instruction": "Ikuti arahan peringatan dini TSUNAMI dari BPBD, BNPB dan BMKG",
+    "shakemap": "20230425030533.mmi.jpg",
+    "wzmap": "20230425030533.wz.png",
+    "ttmap": "20230425030533.tt.png",
+    "sshmap": "20230425030533.ssh.png",
+    "instruction1": "Pemerintah Propinsi/Kab/Kota yang berada pada status \"Awas\" diharap memperhatikan dan segera mengarahkan masyarakat untuk melakukan evakuasi menyeluruh",
+    "instruction2": "Pemerintah Propinsi/Kab/Kota yang berada pada status \"Siaga\" diharap memperhatikan dan segera mengarahkan masyarakat untuk melakukan evakuasi",
+    "instruction3": "Pemerintah Propinsi/Kab/Kota yang berada pada status \"Waspada\" diharap memperhatikan dan segera mengarahkan masyarakat untuk menjauhi pantai dan tepian sungai",
+    "wzarea": [
+      {
+        "province": "SUMUT",
+        "district": "NIAS-SELATAN PULAU TANABALA",
+        "level": "WASPADA",
+        "date": "25-04-2023",
+        "time": "03:09:54 WIB"
+      },
+      {
+        "province": "SUMUT",
+        "district": "NIAS-SELATAN PULAU TANABALA",
+        "level": "WASPADA",
+        "date": "25-04-2023",
+        "time": "03:09:54 WIB"
+      }
+    ],
+    "timesent": "25/04/2023 03:05:33WIB"
+  }
+}
