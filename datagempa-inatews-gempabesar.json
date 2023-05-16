@@ -1,31 +1,31 @@
 {
-    "identifier": "Indonesia-InaTEWS-felt-Eq-20220214125747",
-    "sender": "inatews@bmkg.go.id",
-    "sent": "2023-01-10T00:47:34WIB",
-    "status": "Actual",
-    "msgType": "Alert",
-    "scope": "Public",
-    "code": "profile:BMKG-Versi:1",
-    "info": {
-        "event": "Gempabumi",
-        "date": "10-01-23",
-        "time": "00:47:34 WIB",
-        "point": {
-            "coordinates": "130.23,-7.37"
-        },
-        "latitude": "7.37 LS",
-        "longitude": "130.23 BT",
-        "magnitude": "7.9",
-        "depth": "131 Km",
-        "area": "Pusat gempa berada di laut 148 km BaratLaut MALUKUTENGGARABRT",
-        "eventid": "20230110004734",
-        "potential": "Potensi tsunami untuk diteruskan pada masyarakat",
-        "subject": "Peringatan Dini Tsunami",
-        "headline": "Peringatan Dini Tsunami untuk wilayah: MALUKU, SULTRA, Gempa Mag:7.9, 10-Jan-23 00:47:34 WIB, Lok:7.25 LS, 130.18 BT (148 km BaratLaut MALUKUTENGGARABRT), Kedlmn:131 Km ::BMKG",
-        "description": "Telah terjadi gempabumi mag:7.9, lokasi:Pusat gempa berada di laut 148 km BaratLaut MALUKUTENGGARABRT, waktu:10-Jan-23 00:47:34 WIB, kedlmn:131 Km, gempa ini dirasakan(MMI):V Saumlaki IV Dobo IV Tiakur III-IV Sorong III-IV Kaimana III-IV Alor III-IV Waingapu III-IV Waijelu III-IV Lembata",
-        "instruction": "Ikuti arahan peringatan dini TSUNAMI dari BPBD, BNPB dan BMKG",
-        "shakemap": "20220214125747.mmi.jpg",
-        "felt": "V Saumlaki IV Dobo IV Tiakur III-IV Sorong III-IV Kaimana III-IV Alor III-IV Waingapu III-IV Waijelu III-IV Lembata",
-        "timesent": "10\/01\/2023 00:52:34WIB"
-    }
+  "identifier": "Indonesia-InaTEWS-felt-Eq-20230425030057",
+  "sender": "inatews@bmkg.go.id",
+  "sent": "2023-04-25T03:00:57WIB",
+  "status": "Actual",
+  "msgType": "Alert",
+  "scope": "Public",
+  "code": "profile:BMKG-Versi:1",
+  "info": {
+    "event": "Gempabumi",
+    "date": "25-04-23",
+    "time": "03:00:57 WIB",
+    "point": {
+      "coordinates": "98.39,-0.93"
+    },
+    "latitude": "0.93 LS",
+    "longitude": "98.39 BT",
+    "magnitude": "7.3",
+    "depth": "84 Km",
+    "area": "Pusat gempa berada di Laut 177 km BaratLaut Kepulauan Mentawai",
+    "eventid": "20230425030057",
+    "potential": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
+    "subject": "Warning Gempa dirasakan",
+    "headline": "Info Gempa dirasakan Mag:7.3, 25-Apr-23 03:00:57 WIB, Lok:0.93 LS, 98.39 BT (Pusat gempa berada di Laut 177 km BaratLaut Kepulauan Mentawai), Kedlmn:84 Km ::BMKG",
+    "description": "Telah terjadi gempabumi mag:7.3, lokasi:Pusat gempa berada di Laut 177 km BaratLaut Kepulauan Mentawai, waktu:25-Apr-23 03:00:57 WIB, kedlmn:84 Km, gempa ini dirasakan(MMI):VI Siberut, VI Mentawai, V Pasaman Barat, V Padang Pariaman, V Agam, V Padang, III Gunung Sitoli, III Padang Panjang, III Pesisir Selatan, III Limapuluhkota, III Solok Selatan, III Solok, III Bukittinggi, II Labuhan Batu, II Padang Sidempuan",
+    "instruction": "Hati-hati terhadap gempabumi susulan yang mungkin terjadi",
+    "shakemap": "20230425030057.mmi.jpg",
+    "felt": "VI Siberut, VI Mentawai, V Pasaman Barat, V Padang Pariaman, V Agam, V Padang, III Gunung Sitoli, III Padang Panjang, III Pesisir Selatan, III Limapuluhkota, III Solok Selatan, III Solok, III Bukittinggi, II Labuhan Batu, II Padang Sidempuan",
+    "timesent": "25/04/2023 03:05:57WIB"
+  }
 }
