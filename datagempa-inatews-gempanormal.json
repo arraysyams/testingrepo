@@ -1,31 +1,31 @@
 {
-    "identifier": "Indonesia-InaTEWS-felt-Eq-20220214125747",
-    "sender": "inatews@bmkg.go.id",
-    "sent": "2022-02-14T12:57:47WIB",
-    "status": "Actual",
-    "msgType": "Alert",
-    "scope": "Public",
-    "code": "profile:BMKG-Versi:1",
-    "info": {
-        "event": "Gempabumi",
-        "date": "14-02-22",
-        "time": "12:57:47 WIB",
-        "point": {
-            "coordinates": "100.93,-4.52"
-        },
-        "latitude": "4.52 LS",
-        "longitude": "100.93 BT",
-        "magnitude": "4.2",
-        "depth": "12 Km",
-        "area": "Pusat gempa berada di laut 174 km barat laut Enggano",
-        "eventid": "20220214125747",
-        "potential": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-        "subject": "Warning Gempa dirasakan",
-        "headline": "Info Gempa dirasakan Mag:4.2, 14-Feb-22 12:57:47 WIB, Lok:4.52 LS, 100.93 BT (Pusat gempa berada di laut 174 km barat laut Enggano), Kedlmn:12 Km ::BMKG",
-        "description": "Telah terjadi gempabumi mag:4.2, lokasi:Pusat gempa berada di laut 174 km barat laut Enggano, waktu:14-Feb-22 12:57:47 WIB, kedlmn:12 Km, gempa ini dirasakan(MMI):II Kota Bengkulu",
-        "instruction": "Hati-hati terhadap gempabumi susulan yang mungkin terjadi",
-        "shakemap": "20220214125747.mmi.jpg",
-        "felt": "II Kota Bengkulu",
-        "timesent": "14\/02\/2022 13:02:47WIB"
-    }
+  "identifier": "Indonesia-InaTEWS-felt-Eq-20230514223221",
+  "sender": "inatews@bmkg.go.id",
+  "sent": "2023-05-14T22:32:21WIB",
+  "status": "Actual",
+  "msgType": "Alert",
+  "scope": "Public",
+  "code": "profile:BMKG-Versi:1",
+  "info": {
+    "event": "Gempabumi",
+    "date": "14-05-23",
+    "time": "22:32:21 WIB",
+    "point": {
+      "coordinates": "126.90,0.49"
+    },
+    "latitude": "0.49 LU",
+    "longitude": "126.90 BT",
+    "magnitude": "5.9",
+    "depth": "109 Km",
+    "area": "Pusat gempa berada di laut 60 km barat daya Ternate",
+    "eventid": "20230514223221",
+    "potential": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
+    "subject": "Warning Gempa dirasakan",
+    "headline": "Info Gempa dirasakan Mag:5.9, 14-Mei-23 22:32:21 WIB, Lok:0.49 LU, 126.90 BT (Pusat gempa berada di laut 60 km barat daya Ternate), Kedlmn:109 Km ::BMKG",
+    "description": "Telah terjadi gempabumi mag:5.9, lokasi:Pusat gempa berada di laut 60 km barat daya Ternate, waktu:14-Mei-23 22:32:21 WIB, kedlmn:109 Km, gempa ini dirasakan(MMI):III Manado, III Kotamobagu, III Bitung, II-III Halmahera Tengah, II Sanana, II Gorontalo",
+    "instruction": "Hati-hati terhadap gempabumi susulan yang mungkin terjadi",
+    "shakemap": "20230514223221.mmi.jpg",
+    "felt": "III Manado, III Kotamobagu, III Bitung, II-III Halmahera Tengah, II Sanana, II Gorontalo",
+    "timesent": "14/05/2023 22:37:21WIB"
+  }
 }
