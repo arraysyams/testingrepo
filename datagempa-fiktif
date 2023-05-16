@@ -1,32 +1,31 @@
-
 {
     "identifier": "Indonesia-InaTEWS-felt-Eq-20220214125747",
     "sender": "inatews@bmkg.go.id",
-    "sent": "2023-01-10T00:47:34WIB",
+    "sent": "202x-02-14T09:10:34WIB",
     "status": "Actual",
     "msgType": "Alert",
     "scope": "Public",
     "code": "profile:BMKG-Versi:1",
     "info": {
         "event": "Gempabumi",
-        "date": "10-01-23",
-        "time": "00:47:34 WIB",
+        "date": "14-02-2x",
+        "time": "09:10:34 WIB",
         "point": {
             "coordinates": "130.23,-7.37"
         },
         "latitude": "7.37 LS",
         "longitude": "130.23 BT",
-        "magnitude": "7.9",
-        "depth": "131 Km",
+        "magnitude": "8.9",
+        "depth": "20 Km",
         "area": "Pusat gempa berada di laut 148 km BaratLaut MALUKUTENGGARABRT",
-        "eventid": "20230110004734",
-        "potential": "Potensi tsunami untuk diteruskan pada masyarakat",
-        "subject": "Peringatan Dini Tsunami",
-        "headline": "Peringatan Dini Tsunami untuk wilayah: MALUKU, SULTRA, Gempa Mag:7.9, 10-Jan-23 00:47:34 WIB, Lok:7.25 LS, 130.18 BT (148 km BaratLaut MALUKUTENGGARABRT), Kedlmn:131 Km ::BMKG",
-        "description": "Telah terjadi gempabumi mag:7.9, lokasi:Pusat gempa berada di laut 148 km BaratLaut MALUKUTENGGARABRT, waktu:10-Jan-23 00:47:34 WIB, kedlmn:131 Km, gempa ini dirasakan(MMI):V Saumlaki IV Dobo IV Tiakur III-IV Sorong III-IV Kaimana III-IV Alor III-IV Waingapu III-IV Waijelu III-IV Lembata",
+        "eventid": "202x0214091034",
+        "potential": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
+        "subject": "Warning Gempa dirasakan",
+        "headline": "Info Gempa dirasakan Mag:8.9, 14-Feb-2x 09:10:34 WIB, Lok:7.25 LS, 130.18 BT (Pusat gempa berada di laut 148 km BaratLaut MALUKUTENGGARABRT), Kedlmn:20 Km ::BMKG",
+        "description": "Telah terjadi gempabumi mag:8.9, lokasi:Pusat gempa berada di laut 148 km BaratLaut MALUKUTENGGARABRT, waktu:14-Feb-2x 09:10:34 WIB, kedlmn:20 Km, gempa ini dirasakan(MMI):VII-VIII Saumlaki VII Dobo VI Tiakur V-VI Sorong V-VI Kaimana V Alor V Waingapu IV Waijelu IV Lembata",
         "instruction": "Ikuti arahan peringatan dini TSUNAMI dari BPBD, BNPB dan BMKG",
         "shakemap": "20220214125747.mmi.jpg",
-        "felt": "V Saumlaki IV Dobo IV Tiakur III-IV Sorong III-IV Kaimana III-IV Alor III-IV Waingapu III-IV Waijelu III-IV Lembata",
-        "timesent": "10\/01\/2023 00:52:34WIB"
+        "felt": "VII-VIII Saumlaki VII Dobo VI Tiakur V-VI Sorong V-VI Kaimana V Alor V Waingapu IV Waijelu IV Lembata",
+        "timesent": "14\/02\/202x 09:10:34WIB"
     }
 }
