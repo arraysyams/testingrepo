@@ -33,6 +33,13 @@
     "instruction3": "Pemerintah Propinsi/Kab/Kota yang berada pada status \"Waspada\" diharap memperhatikan dan segera mengarahkan masyarakat untuk menjauhi pantai dan tepian sungai",
     "wzarea": [
       {
+        "province": "Provinsi",
+        "district": "Kota",
+        "level": "AWAS",
+        "date": "04-02-2021",
+        "time": "10:00:00 WIB"
+      },
+      {
         "province": "PAPUA",
         "district": "JAYAPURA",
         "level": "SIAGA",
