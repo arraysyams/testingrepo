@@ -1,0 +1,31 @@
+{
+  "identifier": "Indonesia-InaTEWS-felt-Eq-20230621175954",
+  "sender": "inatews@bmkg.go.id",
+  "sent": "2023-06-21T17:59:54WIB",
+  "status": "Actual",
+  "msgType": "Alert",
+  "scope": "Public",
+  "code": "profile:BMKG-Versi:1",
+  "info": {
+    "event": "Gempabumi",
+    "date": "21-06-23",
+    "time": "17:59:54 WIB",
+    "point": {
+      "coordinates": "122.99,-8.34"
+    },
+    "latitude": "8.34 LS",
+    "longitude": "122.99 BT",
+    "magnitude": "2.7",
+    "depth": "5 Km",
+    "area": "Pusat gempa berada di darat 4 km Tenggara Larantuka",
+    "eventid": "20230621175954",
+    "potential": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
+    "subject": "Warning Gempa dirasakan",
+    "headline": "Info Gempa dirasakan Mag:2.7, 21-Jun-23 17:59:54 WIB, Lok:8.34 LS, 122.99 BT (Pusat gempa berada di darat 4 km Tenggara Larantuka), Kedlmn:5 Km ::BMKG",
+    "description": "Telah terjadi gempabumi mag:2.7, lokasi:Pusat gempa berada di darat 4 km Tenggara Larantuka, waktu:21-Jun-23 17:59:54 WIB, kedlmn:5 Km, gempa ini dirasakan(MMI):III Larantuka",
+    "instruction": "Hati-hati terhadap gempabumi susulan yang mungkin terjadi",
+    "shakemap": "20230621175954.mmi.jpg",
+    "felt": "III Larantuka",
+    "timesent": "21/06/2023 18:04:54WIB"
+  }
+}
