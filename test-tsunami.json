@@ -1,0 +1,108 @@
+{
+  "identifier": "Indonesia-InaTEWS-20210205090651",
+  "sender": "inatews@bmkg.go.id",
+  "sent": "2021-02-05T09:06:56WIB",
+  "status": "TES",
+  "msgType": "Alert",
+  "scope": "Public",
+  "code": "profile:BMKG-Versi:1",
+  "info": {
+    "event": "Gempabumi",
+    "date": "04-02-21",
+    "time": "10:00:00 WIB",
+    "point": {
+      "coordinates": "140.60,-1.73"
+    },
+    "latitude": "1.73 LS",
+    "longitude": "140.60 BT",
+    "magnitude": "8.5",
+    "depth": "10 Km",
+    "area": "95 km BaratLaut JAYAPURA-PAPUA",
+    "eventid": "20210205090656",
+    "potential": "Potensi TSUNAMI untuk diteruskan pada masyarakat",
+    "subject": "Warning Tsunami PD-1",
+    "headline": "TES Peringatan Dini Tsunami untuk wilayah: MALUT, PAPUABAR, PAPUA, Gempa Mag:8.5, 04-Feb-21 10:00:00 WIB, Lok:1.73 LS, 140.60 BT (95 km BaratLaut JAYAPURA-PAPUA), Kedlmn:10 Km ::BMKG",
+    "description": "Peringatan Dini Tsunami, telah terjadi gempabumi dengan kekuatan:8.5, lokasi: 95 km BaratLaut JAYAPURA-PAPUA, waktu:04-Feb-21 10:00:00 WIB,  berpotensi Tsunami di wilayah: MALUT, PAPUABAR, PAPUA",
+    "instruction": "Ikuti arahan peringatan dini TSUNAMI dari BPBD, BNPB dan BMKG",
+    "shakemap": "20210205090656.mmi.jpg",
+    "wzmap": "20210205090656.wz.png",
+    "ttmap": "20210205090656.tt.png",
+    "sshmap": "20210205090656.ssh.png",
+    "instruction1": "Pemerintah Propinsi/Kab/Kota yang berada pada status \"Awas\" diharap memperhatikan dan segera mengarahkan masyarakat untuk melakukan evakuasi menyeluruh",
+    "instruction2": "Pemerintah Propinsi/Kab/Kota yang berada pada status \"Siaga\" diharap memperhatikan dan segera mengarahkan masyarakat untuk melakukan evakuasi",
+    "instruction3": "Pemerintah Propinsi/Kab/Kota yang berada pada status \"Waspada\" diharap memperhatikan dan segera mengarahkan masyarakat untuk menjauhi pantai dan tepian sungai",
+    "wzarea": [
+      {
+        "province": "PAPUA",
+        "district": "JAYAPURA",
+        "level": "SIAGA",
+        "date": "04-02-2021",
+        "time": "10:02:00 WIB"
+      },
+      {
+        "province": "PAPUA",
+        "district": "KOTA-JAYAPURA",
+        "level": "SIAGA",
+        "date": "04-02-2021",
+        "time": "10:02:00 WIB"
+      },
+      {
+        "province": "PAPUA",
+        "district": "SARMI",
+        "level": "SIAGA",
+        "date": "04-02-2021",
+        "time": "10:02:00 WIB"
+      },
+      {
+        "province": "PAPUA",
+        "district": "WAROPEN",
+        "level": "WASPADA",
+        "date": "04-02-2021",
+        "time": "10:26:00 WIB"
+      },
+      {
+        "province": "PAPUA",
+        "district": "BIAKNUMFOR",
+        "level": "WASPADA",
+        "date": "04-02-2021",
+        "time": "10:33:00 WIB"
+      },
+      {
+        "province": "PAPUA",
+        "district": "SUPIORI",
+        "level": "WASPADA",
+        "date": "04-02-2021",
+        "time": "10:40:00 WIB"
+      },
+      {
+        "province": "PAPUABAR",
+        "district": "RAJAAMPAT BAGIAN UTARA",
+        "level": "WASPADA",
+        "date": "04-02-2021",
+        "time": "11:19:00 WIB"
+      },
+      {
+        "province": "PAPUABAR",
+        "district": "TELUKWONDAMA",
+        "level": "WASPADA",
+        "date": "04-02-2021",
+        "time": "11:20:00 WIB"
+      },
+      {
+        "province": "MALUT",
+        "district": "HALMAHERA-TENGAH",
+        "level": "WASPADA",
+        "date": "04-02-2021",
+        "time": "11:48:00 WIB"
+      },
+      {
+        "province": "PAPUABAR",
+        "district": "SORONG BAGIAN SELATAN",
+        "level": "WASPADA",
+        "date": "04-02-2021",
+        "time": "11:52:00 WIB"
+      }
+    ],
+    "timesent": "05/02/2021 09:06:56WIB"
+  }
+}
