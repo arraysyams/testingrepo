@@ -1,0 +1,30 @@
+{
+  "identifier": "Indonesia-InaTEWS-20230616011556",
+  "sender": "inatews@bmkg.go.id",
+  "sent": "2023-06-16T01:15:56WIB",
+  "status": "Actual",
+  "msgType": "Alert",
+  "scope": "Public",
+  "code": "profile:BMKG-Versi:1",
+  "info": {
+    "event": "Gempabumi",
+    "date": "16-06-23",
+    "time": "01:06:22 WIB",
+    "point": {
+      "coordinates": "-176.44,-22.82"
+    },
+    "latitude": "22.82 LS",
+    "longitude": "176.44 BB",
+    "magnitude": "6.9",
+    "depth": "161 Km",
+    "area": "771 km BaratDaya SUVA-FIJIISLAND",
+    "eventid": "20230616011556",
+    "potential": "tidak berpotensi TSUNAMI",
+    "subject": "Gempa M>5",
+    "headline": "Info Gempa Mag:6.9, 16-Jun-23 01:06:22 WIB, Lok:22.82 LS, 176.44 BB (771 km BaratDaya SUVA-FIJIISLAND), Kedlmn:161 Km ::BMKG",
+    "description": "Telah terjadi gempabumi mag:6.9, lokasi:771 km BaratDaya SUVA-FIJIISLAND, waktu:16-Jun-23 01:06:22 WIB, kedlmn:161 Km, gempa ini tidak berpotensi TSUNAMI",
+    "instruction": "Hati-hati terhadap gempabumi susulan yang mungkin terjadi",
+    "shakemap": "20230616011556.mmi.jpg",
+    "timesent": "16/06/2023 01:15:56WIB"
+  }
+}
