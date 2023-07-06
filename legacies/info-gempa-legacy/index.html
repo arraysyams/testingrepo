@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Info gempa BMKG</title>
+    <style>
+        table {border: 2px solid black; border-collapse: collapse;}
+        th {border:1px solid black; padding: 10px; border-collapse: collapse;}
+        td {border:1px solid black; padding: 2px; }
+        img {object-fit: contain; height: 400px;}
+    </style>
+</head>
+<body>
+    <!-- <h1>Informasi gempa dari BMKG akan tampil di bawah ini:</h1> -->
+    <p style="color: red;">Perhatian: Website ini sedang diperbaiki</p>
+    <audio src="aud/warn.mp3" hidden id="Warning"></audio>
+    <audio src="aud/alert.mp3" hidden id="Alert"></audio>
+    <div>
+        <p id="informasi">
+            Sedang mengakses info gempa...
+        </p>
+        <table>
+            <tr>
+                <th>Data</th>
+                <th>Isi</th>
+            </tr>
+            <tr>
+                <td>Bujur</td>
+                <td class="tblGempa" name="Bujur">-</td>
+            </tr>
+            <tr>
+                <td>Coordinates</td>
+                <td class="tblGempa" name="Coordinates">-</td>
+            </tr>
+            <tr>
+                <td>DateTime</td>
+                <td class="tblGempa" name="DateTime">-</td>
+            </tr>
+            <tr>
+                <td>Dirasakan</td>
+                <td class="tblGempa" name="Dirasakan">-</td>
+            </tr>
+            <tr>
+                <td>Jam</td>
+                <td class="tblGempa" name="Jam">-</td>
+            </tr>
+            <tr>
+                <td>Kedalaman</td>
+                <td class="tblGempa" name="Kedalaman">-</td>
+            </tr>
+            <tr>
+                <td>Lintang</td>
+                <td class="tblGempa" name="Lintang">-</td>
+            </tr>
+            <tr>
+                <td>Magnitude</td>
+                <td class="tblGempa" name="Magnitude">-</td>
+            </tr>
+            <tr>
+                <td>Potensi</td>
+                <td class="tblGempa" name="Potensi">-</td>
+            </tr>
+            <tr>
+                <td>Map</td>
+                <td class="tblGempa" name="Shakemap">
+                    <img src="img/placeholder.mmi.jpg" alt="" id="imgShakemap"></img>
+                </td>
+            </tr>
+            <tr>
+                <td>Tanggal</td><td class="tblGempa" name="Tanggal">-</td>
+            </tr>
+            <tr>
+                <td>Wilayah</td><td class="tblGempa" name="Wilayah">-</td>
+            </tr>
+        </table>
+        <h2>Riwayat Gempa M>5.0</h2>
+        <div id="div-riwayat">
+        </div>
+        <pre id="txtLog">Memuat data...</pre>
+        <p><b>Disclaimer:</b> Aplikasi ini tidak disponsori oleh BMKG</p>
+    </div>
+    <script type="text/javascript" src="gempa.js"></script>
+</body>
+</html>
