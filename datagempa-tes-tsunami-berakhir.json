@@ -1,0 +1,36 @@
+{
+    "identifier": "Indonesia-InaTEWS-20231025170700-PD4",
+    "sender": "inatews@bmkg.go.id",
+    "sent": "2023-10-25T17:07:00WIB",
+    "status": "TES",
+    "msgType": "Alert",
+    "scope": "Public",
+    "code": "profile:BMKG-Versi:1",
+    "info": {
+        "event": "Gempabumi",
+        "date": "25-10-23",
+        "time": "09:00:00 WIB",
+        "point": {
+            "coordinates": "112.80,-10.40"
+        },
+        "latitude": "10.40 LS",
+        "longitude": "112.80 BT",
+        "magnitude": "9.0",
+        "depth": "10 Km",
+        "area": "252 km Tenggara KAB-MALANG-JATIM",
+        "eventid": "iowave_20231025170700",
+        "potential": "Potensi TSUNAMI untuk diteruskan pada masyarakat",
+        "subject": "Warning Tsunami PD-4",
+        "headline": "Peringatan Dini Tsunami dinyatakan berakhir",
+        "description": "Peringatan Dini Tsunami dinyatakan berakhir",
+        "instruction": "Peringatan Dini Tsunami dinyatakan berakhir",
+        "shakemap": "iowave_20231025170700.mmi.jpg",
+        "wzmap": "iowave_20231025170700.wz.png",
+        "ttmap": "iowave_20231025170700.tt.png",
+        "sshmap": "iowave_20231025170700.ssh.png",
+        "instruction1": "Pemerintah Propinsi\/Kab\/Kota yang berada pada status \"Awas\" diharap memperhatikan dan segera mengarahkan masyarakat untuk melakukan evakuasi menyeluruh",
+        "instruction2": "Pemerintah Propinsi\/Kab\/Kota yang berada pada status \"Siaga\" diharap memperhatikan dan segera mengarahkan masyarakat untuk melakukan evakuasi",
+        "instruction3": "Pemerintah Propinsi\/Kab\/Kota yang berada pada status \"Waspada\" diharap memperhatikan dan segera mengarahkan masyarakat untuk menjauhi pantai dan tepian sungai",
+        "timesent": "25\/10\/2023 17:07:00WIB"
+    }
+}
