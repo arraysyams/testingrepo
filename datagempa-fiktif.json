@@ -1,14 +1,14 @@
 {
     "identifier": "Indonesia-InaTEWS-felt-Eq-20220214125747",
     "sender": "inatews@bmkg.go.id",
-    "sent": "202x-02-14T09:10:34WIB",
+    "sent": "2021-02-14T09:10:34WIB",
     "status": "Actual",
     "msgType": "Alert",
     "scope": "Public",
     "code": "profile:BMKG-Versi:1",
     "info": {
         "event": "Gempabumi",
-        "date": "14-02-2x",
+        "date": "14-02-21",
         "time": "09:10:34 WIB",
         "point": {
             "coordinates": "130.23,-7.37"
@@ -17,15 +17,15 @@
         "longitude": "130.23 BT",
         "magnitude": "8.9",
         "depth": "20 Km",
-        "area": "Pusat gempa berada di laut 148 km BaratLaut MALUKUTENGGARABRT",
-        "eventid": "202x0214091034",
+        "area": "Ini hanya tes. Pusat gempa berada di laut 148 km BaratLaut MALUKUTENGGARABRT",
+        "eventid": "20210214091034",
         "potential": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
         "subject": "Warning Gempa dirasakan",
-        "headline": "Info Gempa dirasakan Mag:8.9, 14-Feb-2x 09:10:34 WIB, Lok:7.25 LS, 130.18 BT (Pusat gempa berada di laut 148 km BaratLaut MALUKUTENGGARABRT), Kedlmn:20 Km ::BMKG",
+        "headline": "Info Gempa dirasakan Mag:8.9, 14-Feb-21 09:10:34 WIB, Lok:7.25 LS, 130.18 BT (Pusat gempa berada di laut 148 km BaratLaut MALUKUTENGGARABRT), Kedlmn:20 Km ::BMKG",
         "description": "Telah terjadi gempabumi mag:8.9, lokasi:Pusat gempa berada di laut 148 km BaratLaut MALUKUTENGGARABRT, waktu:14-Feb-2x 09:10:34 WIB, kedlmn:20 Km, gempa ini dirasakan(MMI):VII-VIII Saumlaki VII Dobo VI Tiakur V-VI Sorong V-VI Kaimana V Alor V Waingapu IV Waijelu IV Lembata",
-        "instruction": "Ikuti arahan peringatan dini TSUNAMI dari BPBD, BNPB dan BMKG",
+        "instruction": "Ini hanya tes. Ikuti arahan peringatan dini TSUNAMI dari BPBD, BNPB dan BMKG",
         "shakemap": "20220214125747.mmi.jpg",
-        "felt": "VII-VIII Saumlaki VII Dobo VI Tiakur V-VI Sorong V-VI Kaimana V Alor V Waingapu IV Waijelu IV Lembata",
-        "timesent": "14\/02\/202x 09:10:34WIB"
+        "felt": "VII-VIII Saumlaki, VII Dobo, VI Tiakur, V-VI Sorong, V-VI Kaimana, V Alor, V Waingapu, IV Waijelu, IV Lembata",
+        "timesent": "14/02/202x 09:10:34WIB"
     }
 }
